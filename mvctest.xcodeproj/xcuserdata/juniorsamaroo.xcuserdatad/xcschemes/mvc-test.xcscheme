@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5252A25F1E628E0C00E7F979"
-               BuildableName = "mvc-test.app"
-               BlueprintName = "mvc-test"
-               ReferencedContainer = "container:mvc-test.xcodeproj">
+               BuildableName = "mvctest.app"
+               BlueprintName = "mvctest"
+               ReferencedContainer = "container:mvctest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5252A25F1E628E0C00E7F979"
-            BuildableName = "mvc-test.app"
-            BlueprintName = "mvc-test"
-            ReferencedContainer = "container:mvc-test.xcodeproj">
+            BuildableName = "mvctest.app"
+            BlueprintName = "mvctest"
+            ReferencedContainer = "container:mvctest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5252A25F1E628E0C00E7F979"
-            BuildableName = "mvc-test.app"
-            BlueprintName = "mvc-test"
-            ReferencedContainer = "container:mvc-test.xcodeproj">
+            BuildableName = "mvctest.app"
+            BlueprintName = "mvctest"
+            ReferencedContainer = "container:mvctest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5252A25F1E628E0C00E7F979"
-            BuildableName = "mvc-test.app"
-            BlueprintName = "mvc-test"
-            ReferencedContainer = "container:mvc-test.xcodeproj">
+            BuildableName = "mvctest.app"
+            BlueprintName = "mvctest"
+            ReferencedContainer = "container:mvctest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

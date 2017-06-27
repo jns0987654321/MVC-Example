@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5252A2601E628E0C00E7F979 /* mvc-test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mvc-test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5252A2601E628E0C00E7F979 /* mvctest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mvctest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5252A2631E628E0C00E7F979 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5252A2651E628E0C00E7F979 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5252A2681E628E0C00E7F979 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		5252A2611E628E0C00E7F979 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5252A2601E628E0C00E7F979 /* mvc-test.app */,
+				5252A2601E628E0C00E7F979 /* mvctest.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -113,9 +113,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5252A25F1E628E0C00E7F979 /* mvc-test */ = {
+		5252A25F1E628E0C00E7F979 /* mvctest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5252A2721E628E0C00E7F979 /* Build configuration list for PBXNativeTarget "mvc-test" */;
+			buildConfigurationList = 5252A2721E628E0C00E7F979 /* Build configuration list for PBXNativeTarget "mvctest" */;
 			buildPhases = (
 				5252A25C1E628E0C00E7F979 /* Sources */,
 				5252A25D1E628E0C00E7F979 /* Frameworks */,
@@ -125,9 +125,9 @@
 			);
 			dependencies = (
 			);
-			name = "mvc-test";
+			name = mvctest;
 			productName = "mvc-test";
-			productReference = 5252A2601E628E0C00E7F979 /* mvc-test.app */;
+			productReference = 5252A2601E628E0C00E7F979 /* mvctest.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -147,7 +147,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5252A25B1E628E0C00E7F979 /* Build configuration list for PBXProject "mvc-test" */;
+			buildConfigurationList = 5252A25B1E628E0C00E7F979 /* Build configuration list for PBXProject "mvctest" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -160,7 +160,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5252A25F1E628E0C00E7F979 /* mvc-test */,
+				5252A25F1E628E0C00E7F979 /* mvctest */,
 			);
 		};
 /* End PBXProject section */
@@ -334,7 +334,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5252A25B1E628E0C00E7F979 /* Build configuration list for PBXProject "mvc-test" */ = {
+		5252A25B1E628E0C00E7F979 /* Build configuration list for PBXProject "mvctest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5252A2701E628E0C00E7F979 /* Debug */,
@@ -343,13 +343,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5252A2721E628E0C00E7F979 /* Build configuration list for PBXNativeTarget "mvc-test" */ = {
+		5252A2721E628E0C00E7F979 /* Build configuration list for PBXNativeTarget "mvctest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5252A2731E628E0C00E7F979 /* Debug */,
 				5252A2741E628E0C00E7F979 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  mvc-test
+//  mvctest
 //
 //  Created by Junior Samaroo on 2017-02-25.
 //  Copyright © 2017 Junior Samaroo. All rights reserved.
